@@ -1,0 +1,18 @@
+SE 239 - Phase 2
+The Socket Scientists
+Simple Ticket Booking System
+
+Team members:
+Hamza Emad Ahmed (team representative)
+Zackaria Muthana
+Haroon Habash
+Mohammad Bilal
+
+Team Git repository URL: https://github.com/mobilal1209-commits/se239-socket-scientists
+
+Evidence: Phase_2_Evidence_Report.pdf
+Week 6: One TCP client connects and exchanges a greeting with the server.
+Week 8: Three TCP clients remain connected simultaneously and join with unique IDs.
+The evidence report includes actual screenshots and short explanations for both milestones.
+The package also includes the source programs and full test logs.
+
